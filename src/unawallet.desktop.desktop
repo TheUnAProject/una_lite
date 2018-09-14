@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=UNA Lite Wallet
+Comment=UNA wallet
+Exec=unawallet %U
+Terminal=false
+Type=Application
+Icon=Karbovanets
+MimeType=x-scheme-handler/una;
+Categories=Office;Finance;
+Version=1.0.1
+Name[en_ZA]=unawallet.desktop
